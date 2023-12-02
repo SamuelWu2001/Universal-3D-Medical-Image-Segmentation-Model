@@ -17,6 +17,7 @@ This project employs Parameter-Efficient Fine-Tuning methods to fine-tune the Se
 
 ### Spleen
 ![image](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/0a34f81b-1a28-45f1-a0c8-434728c3a7bf)
+![36](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/384e055c-2e4d-412a-814a-23100d0019bc)
 
 
 
