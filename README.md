@@ -39,4 +39,5 @@ This project employs Parameter-Efficient Fine-Tuning methods to fine-tune the Se
 ![35](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/e3f016e0-19e2-4561-a991-9c3181f7fdc4)
 ![31](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/241385b6-4129-46bb-a364-40c9ec6c30be)
 
-
+# Reference
+[Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/abs/2304.12620)
