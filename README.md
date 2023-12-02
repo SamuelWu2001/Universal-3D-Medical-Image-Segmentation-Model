@@ -16,8 +16,8 @@ This project employs Parameter-Efficient Fine-Tuning methods to fine-tune the Se
 | point_transform_small | 91.31 | 95.32 | 78.93 |	57.66 | 94.35 | 91.18 |
 
 ### Spleen
-![image](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/0a34f81b-1a28-45f1-a0c8-434728c3a7bf)
 ![36](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/384e055c-2e4d-412a-814a-23100d0019bc)
+![62](https://github.com/SamuelWu2001/Universal-3D-Medical-Image-Segmentation-Model/assets/71746159/393c3285-4670-4f54-bfca-f8f39305ccb8)
 
 
 
